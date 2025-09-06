@@ -13,7 +13,7 @@ class Solution(object):
                 count+=1
             else:
                 pass
-        for i in range(count):
+        for i in range(len(arr)):
             nums[i] = arr[i]
         return count
         
