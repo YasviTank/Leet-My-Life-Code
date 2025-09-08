@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YasviTank/leet_my_life_code/tree/master/0027-remove-element) |
+| [0908-middle-of-the-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YasviTank/leet_my_life_code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
