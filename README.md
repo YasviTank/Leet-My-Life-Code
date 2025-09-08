@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/YasviTank/leet_my_life_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YasviTank/leet_my_life_code/tree/master/0027-remove-element) |
+| [0485-max-consecutive-ones](https://github.com/YasviTank/leet_my_life_code/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/YasviTank/leet_my_life_code/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
