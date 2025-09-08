@@ -4,20 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        high = 0
-        count = 1
-        if len(nums)==1 and nums != [0]:
-            return 1
-        if nums == [0,0] or nums == [0,0,0]:
-            return 0
-        for index in range(len(nums)-1):
-            if nums[index] == nums[index+1] and nums[index]!=0:
-                count+=1
-                
-                # if high<count:
-                #     high = count
+        res = 0
+        cur = 0
+        for n in nums:
+            if n:
+                cur += 1
+                if cur > res:
+                    res = cur
             else:
-                count = 1
-            if high<count:
-                high = count
-        return high
+                cur = 0
+        return res
