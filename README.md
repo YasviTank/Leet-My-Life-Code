@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YasviTank/leet_my_life_code/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/YasviTank/leet_my_life_code/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YasviTank/leet_my_life_code/tree/master/0014-longest-common-prefix) |
+| [0383-ransom-note](https://github.com/YasviTank/leet_my_life_code/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/YasviTank/leet_my_life_code/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0908-middle-of-the-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/YasviTank/leet_my_life_code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
