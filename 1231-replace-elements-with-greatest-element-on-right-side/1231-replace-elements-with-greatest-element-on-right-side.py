@@ -9,17 +9,12 @@ class Solution(object):
         if n == 1:
             return [-1]
 
-        for index in range(n - 2, -1, -1):
+        maximum = -1
+        for index in range(n - 1, -1, -1):
             variable = arr[index]
-            if index == n - 2:
-                arr[index] = arr[index+1]
-                new = variable
-            else:
-                arr[index] = max(new, arr[index+1])
-                new = variable
-                # print("new", new, arr[index+1])
-            # print (arr)
-        arr[n-1] = -1
+            arr[index] = maximum
+            maximum = max(maximum, variable)
+            
         return arr
             
 
