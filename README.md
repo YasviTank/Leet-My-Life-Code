@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/YasviTank/leet_my_life_code/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/YasviTank/leet_my_life_code/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YasviTank/leet_my_life_code/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/YasviTank/leet_my_life_code/tree/master/0383-ransom-note) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/YasviTank/leet_my_life_code/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -77,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
