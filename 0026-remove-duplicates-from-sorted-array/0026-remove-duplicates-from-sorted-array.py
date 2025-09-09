@@ -4,20 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n = len(nums)
-        arr = []
-        arr.append(nums[0])
-        count = -1
-        for index in range(1, n):
-            if nums[index] != arr[count]:
-                arr.append(nums[index])
-            else:
-                pass
+        i = 1
 
-        for i in range(len(arr)):
-            nums[i] = arr[i]
-            
-        return len(arr)
-
-
-
+        for j in range(1, len(nums)):
+            if nums[j] != nums[i - 1]:
+                nums[i] = nums[j]
+                i += 1
+        
+        return i
