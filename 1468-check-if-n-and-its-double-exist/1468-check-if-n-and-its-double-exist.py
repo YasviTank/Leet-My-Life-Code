@@ -6,7 +6,6 @@ class Solution(object):
         """
         for index in range(len(arr)):
             sq = arr[index]*2
-            div = arr[index]/2
             for i in range(len(arr)):
                 if arr[i] == sq and i!=index:
                     return True
