@@ -20,8 +20,7 @@ class Solution(object):
                     mid = num
                 else: 
                     low = num
-                # high = num
-                print(high, mid, low)
+            
         if low == float('-inf'):
             return high
 
