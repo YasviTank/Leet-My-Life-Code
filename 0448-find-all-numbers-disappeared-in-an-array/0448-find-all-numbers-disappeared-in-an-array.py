@@ -10,8 +10,8 @@ class Solution(object):
             index = abs(nums[i])-1
             if nums[index] > 0:
                 nums[index] = -nums[index]
-                print(nums[index])
-        print(nums)
+                
+                
         result = []
         for i in range(n):
             if nums[i]  > 0:
