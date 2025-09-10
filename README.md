@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/YasviTank/leet_my_life_code/tree/master/1137-height-checker) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
