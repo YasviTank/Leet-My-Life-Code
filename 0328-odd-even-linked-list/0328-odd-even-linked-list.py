@@ -14,10 +14,10 @@ class Solution(object):
 
         odd = head
         even = head.next
+
+        # to not loose the pointer to the linkedlist of evens
         even_head = even
-        # print(odd)
-        # print(even)
-        # print(even_head)
+        
 
         while even and even.next:
             odd.next = even.next
