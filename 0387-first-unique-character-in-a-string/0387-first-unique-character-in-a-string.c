@@ -1,4 +1,5 @@
 int firstUniqChar(char* s) {
+    // Srings are stored as arrays of characters ending with a special symbol called the null character — written as '\0'
     int freq[26] = {0};
     int i;
 
