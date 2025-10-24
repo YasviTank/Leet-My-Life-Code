@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/YasviTank/leet_my_life_code/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YasviTank/leet_my_life_code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/YasviTank/leet_my_life_code/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
