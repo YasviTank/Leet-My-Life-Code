@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YasviTank/leet_my_life_code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/YasviTank/leet_my_life_code/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/YasviTank/leet_my_life_code/tree/master/2752-sum-multiples) |
 ## Two Pointers
 |  |
 | ------- |
