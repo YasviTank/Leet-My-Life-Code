@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/YasviTank/leet_my_life_code/tree/master/1791-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YasviTank/leet_my_life_code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/YasviTank/leet_my_life_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3226-minimum-number-game](https://github.com/YasviTank/leet_my_life_code/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/YasviTank/leet_my_life_code/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/YasviTank/leet_my_life_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/YasviTank/leet_my_life_code/tree/master/0412-fizz-buzz) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/YasviTank/leet_my_life_code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YasviTank/leet_my_life_code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/YasviTank/leet_my_life_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
 | ------- |
