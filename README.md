@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/YasviTank/leet_my_life_code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/YasviTank/leet_my_life_code/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/YasviTank/leet_my_life_code/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/YasviTank/leet_my_life_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/YasviTank/leet_my_life_code/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3226-minimum-number-game](https://github.com/YasviTank/leet_my_life_code/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
