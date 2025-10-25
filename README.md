@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YasviTank/leet_my_life_code/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/YasviTank/leet_my_life_code/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/YasviTank/leet_my_life_code/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/YasviTank/leet_my_life_code/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
