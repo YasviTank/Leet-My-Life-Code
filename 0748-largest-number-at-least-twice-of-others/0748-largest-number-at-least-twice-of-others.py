@@ -4,20 +4,21 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        max = -1
-        second_max = -1
-        index = 0
+        if not nums:
+            return -1
+
+        largest = float('-inf')
+        second_largest = float('-inf')
+        index_of_largest = -1
+
         for i, num in enumerate(nums):
-            if num > max:
-                second_max = max
-                index = i
-                max = num
+            if num > largest:
+                second_largest = largest
+                largest = num
+                index_of_largest = i
+            elif num > second_largest:
+                second_largest = num
 
-            elif num > second_max:
-                second_max = num
-                
-        print(max, second_max)
-        if (max >= (2*second_max)):
-            return index
-
+        if largest >= 2 * second_largest:
+            return index_of_largest
         return -1
