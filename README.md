@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YasviTank/leet_my_life_code/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/YasviTank/leet_my_life_code/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/YasviTank/leet_my_life_code/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/YasviTank/leet_my_life_code/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YasviTank/leet_my_life_code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/YasviTank/leet_my_life_code/tree/master/0941-sort-array-by-parity) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/YasviTank/leet_my_life_code/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/YasviTank/leet_my_life_code/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/YasviTank/leet_my_life_code/tree/master/0682-baseball-game) |
 | [3226-minimum-number-game](https://github.com/YasviTank/leet_my_life_code/tree/master/3226-minimum-number-game) |
 ## Bit Manipulation
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/YasviTank/leet_my_life_code/tree/master/0682-baseball-game) |
 ## Depth-First Search
 |  |
 | ------- |
