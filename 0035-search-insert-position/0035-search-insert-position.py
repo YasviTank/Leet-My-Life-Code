@@ -24,7 +24,7 @@ class Solution(object):
         mid = 0
 
         while(start <= end): 
-            mid = start + ( end - start)/2
+            mid = (start + end)/2
             if(nums[mid] == target): 
                 return mid
             elif(nums[mid] < target): 
