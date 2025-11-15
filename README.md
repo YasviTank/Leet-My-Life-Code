@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YasviTank/leet_my_life_code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/YasviTank/leet_my_life_code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/YasviTank/leet_my_life_code/tree/master/3226-minimum-number-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
