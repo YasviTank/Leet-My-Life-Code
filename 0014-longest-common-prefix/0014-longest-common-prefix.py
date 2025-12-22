@@ -1,9 +1,5 @@
-class Solution(object):
-    def longestCommonPrefix(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: str
-        """
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
         n = len(strs)
         if n == 0:
             return ""
@@ -14,3 +10,4 @@ class Solution(object):
                 if i == len(word) or word[i] != base[i]:
                     return base[0:i]
         return base
+             
