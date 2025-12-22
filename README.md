@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/YasviTank/leet_my_life_code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YasviTank/leet_my_life_code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/YasviTank/leet_my_life_code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/YasviTank/leet_my_life_code/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YasviTank/leet_my_life_code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YasviTank/leet_my_life_code/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/YasviTank/leet_my_life_code/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/YasviTank/leet_my_life_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/YasviTank/leet_my_life_code/tree/master/0412-fizz-buzz) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/YasviTank/leet_my_life_code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/YasviTank/leet_my_life_code/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/YasviTank/leet_my_life_code/tree/master/0498-diagonal-traverse) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YasviTank/leet_my_life_code/tree/master/0067-add-binary) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YasviTank/leet_my_life_code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1610-xor-operation-in-an-array) |
 ## Linked List
