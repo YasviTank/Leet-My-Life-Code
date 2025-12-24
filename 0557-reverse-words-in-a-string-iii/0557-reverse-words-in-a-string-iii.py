@@ -5,8 +5,7 @@ class Solution:
         res = ""
         
         for word in words:
-            word = word[-1::-1]
-            res += word
+            res += word[-1::-1]
             res += " "
         return res.strip()
         
