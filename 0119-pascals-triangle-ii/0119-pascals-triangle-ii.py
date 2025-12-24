@@ -11,6 +11,6 @@ class Solution:
         
 
             result.append(temp)
-            print(result)
+            
 
         return result[-1]
