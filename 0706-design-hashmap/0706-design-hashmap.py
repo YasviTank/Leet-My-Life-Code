@@ -9,7 +9,7 @@ class MyHashMap:
 
     def __init__(self):
         self.size  = 1000
-        self.buckets = [None for _ in range(self.size)]
+        self.buckets = [None]*self.size
     
     def _hash(self, key):
         return key % self.size
