@@ -4,7 +4,7 @@ class Solution:
 
         for ch in s:
             if ch in hashmap:
-                hashmap[ch] += 1
+                hashmap[ch] = -1 #repeating character
             else:
                 hashmap[ch] = 1
         
