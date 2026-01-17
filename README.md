@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YasviTank/leet_my_life_code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -296,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
+## Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
+## Binary Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
