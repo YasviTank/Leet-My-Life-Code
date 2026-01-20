@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/YasviTank/leet_my_life_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/YasviTank/leet_my_life_code/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YasviTank/leet_my_life_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0414-third-maximum-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/YasviTank/leet_my_life_code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/YasviTank/leet_my_life_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YasviTank/leet_my_life_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/YasviTank/leet_my_life_code/tree/master/0383-ransom-note) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/YasviTank/leet_my_life_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YasviTank/leet_my_life_code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/YasviTank/leet_my_life_code/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YasviTank/leet_my_life_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0414-third-maximum-number) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 | [3226-minimum-number-game](https://github.com/YasviTank/leet_my_life_code/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -313,4 +318,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
