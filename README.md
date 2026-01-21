@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YasviTank/leet_my_life_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0454-4sum-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YasviTank/leet_my_life_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/YasviTank/leet_my_life_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YasviTank/leet_my_life_code/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/0258-add-digits) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/YasviTank/leet_my_life_code/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YasviTank/leet_my_life_code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
 | [0838-design-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0838-design-linked-list) |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
