@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YasviTank/leet_my_life_code/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/YasviTank/leet_my_life_code/tree/master/0498-diagonal-traverse) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YasviTank/leet_my_life_code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0622-design-circular-queue](https://github.com/YasviTank/leet_my_life_code/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/YasviTank/leet_my_life_code/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/YasviTank/leet_my_life_code/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0622-design-circular-queue](https://github.com/YasviTank/leet_my_life_code/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
 | [0838-design-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0838-design-linked-list) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/YasviTank/leet_my_life_code/tree/master/0622-design-circular-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
