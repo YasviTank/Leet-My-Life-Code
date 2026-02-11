@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YasviTank/leet_my_life_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/YasviTank/leet_my_life_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/YasviTank/leet_my_life_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0219-contains-duplicate-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/YasviTank/leet_my_life_code/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/YasviTank/leet_my_life_code/tree/master/0498-diagonal-traverse) |
 | [1791-richest-customer-wealth](https://github.com/YasviTank/leet_my_life_code/tree/master/1791-richest-customer-wealth) |
 ## Simulation
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
 | [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -345,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
