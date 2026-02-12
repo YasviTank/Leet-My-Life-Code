@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/YasviTank/leet_my_life_code/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YasviTank/leet_my_life_code/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0752-open-the-lock](https://github.com/YasviTank/leet_my_life_code/tree/master/0752-open-the-lock) |
 | [0941-sort-array-by-parity](https://github.com/YasviTank/leet_my_life_code/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/YasviTank/leet_my_life_code/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/YasviTank/leet_my_life_code/tree/master/0771-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/YasviTank/leet_my_life_code/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YasviTank/leet_my_life_code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/YasviTank/leet_my_life_code/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/YasviTank/leet_my_life_code/tree/master/0742-to-lower-case) |
+| [0752-open-the-lock](https://github.com/YasviTank/leet_my_life_code/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/YasviTank/leet_my_life_code/tree/master/0771-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/YasviTank/leet_my_life_code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YasviTank/leet_my_life_code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
+| [0752-open-the-lock](https://github.com/YasviTank/leet_my_life_code/tree/master/0752-open-the-lock) |
 ## Union-Find
 |  |
 | ------- |
