@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YasviTank/leet_my_life_code/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/YasviTank/leet_my_life_code/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/YasviTank/leet_my_life_code/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YasviTank/leet_my_life_code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0119-pascals-triangle-ii) |
+| [0279-perfect-squares](https://github.com/YasviTank/leet_my_life_code/tree/master/0279-perfect-squares) |
 ## String Matching
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/YasviTank/leet_my_life_code/tree/master/0279-perfect-squares) |
 | [0752-open-the-lock](https://github.com/YasviTank/leet_my_life_code/tree/master/0752-open-the-lock) |
 ## Union-Find
 |  |
