@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/YasviTank/leet_my_life_code/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/YasviTank/leet_my_life_code/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YasviTank/leet_my_life_code/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/YasviTank/leet_my_life_code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/YasviTank/leet_my_life_code/tree/master/0682-baseball-game) |
 ## Depth-First Search
