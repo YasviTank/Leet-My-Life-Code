@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/YasviTank/leet_my_life_code/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/YasviTank/leet_my_life_code/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YasviTank/leet_my_life_code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0752-open-the-lock](https://github.com/YasviTank/leet_my_life_code/tree/master/0752-open-the-lock) |
 | [0941-sort-array-by-parity](https://github.com/YasviTank/leet_my_life_code/tree/master/0941-sort-array-by-parity) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/YasviTank/leet_my_life_code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/YasviTank/leet_my_life_code/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/YasviTank/leet_my_life_code/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/YasviTank/leet_my_life_code/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
