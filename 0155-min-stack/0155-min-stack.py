@@ -1,3 +1,6 @@
+# Here the idea is to use dual data storage, where every element in the stack
+# will be an array of elements: the value of the element and the min element of the stack
+# Giving constant time for retrieveing the min element of the stack.
 class MinStack:
 
     def __init__(self):
