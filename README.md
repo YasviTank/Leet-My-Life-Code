@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YasviTank/leet_my_life_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/YasviTank/leet_my_life_code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/YasviTank/leet_my_life_code/tree/master/0049-group-anagrams) |
+| [0133-clone-graph](https://github.com/YasviTank/leet_my_life_code/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/YasviTank/leet_my_life_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/YasviTank/leet_my_life_code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0142-linked-list-cycle-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/YasviTank/leet_my_life_code/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
 | [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/YasviTank/leet_my_life_code/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/YasviTank/leet_my_life_code/tree/master/0279-perfect-squares) |
 | [0752-open-the-lock](https://github.com/YasviTank/leet_my_life_code/tree/master/0752-open-the-lock) |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/YasviTank/leet_my_life_code/tree/master/0739-daily-temperatures) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/YasviTank/leet_my_life_code/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
