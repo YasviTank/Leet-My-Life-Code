@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/YasviTank/leet_my_life_code/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/YasviTank/leet_my_life_code/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YasviTank/leet_my_life_code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/YasviTank/leet_my_life_code/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/YasviTank/leet_my_life_code/tree/master/0682-baseball-game) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/YasviTank/leet_my_life_code/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/YasviTank/leet_my_life_code/tree/master/0733-flood-fill) |
 | [1791-richest-customer-wealth](https://github.com/YasviTank/leet_my_life_code/tree/master/1791-richest-customer-wealth) |
 ## Simulation
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0119-pascals-triangle-ii) |
 | [0279-perfect-squares](https://github.com/YasviTank/leet_my_life_code/tree/master/0279-perfect-squares) |
+| [0542-01-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0542-01-matrix) |
 ## String Matching
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/YasviTank/leet_my_life_code/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/YasviTank/leet_my_life_code/tree/master/0279-perfect-squares) |
+| [0542-01-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/YasviTank/leet_my_life_code/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/YasviTank/leet_my_life_code/tree/master/0752-open-the-lock) |
 ## Union-Find
