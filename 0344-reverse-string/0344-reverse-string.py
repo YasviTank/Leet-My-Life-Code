@@ -3,13 +3,15 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        i = 0
-        j = len(s) - 1
+        ## using recursion:
+        def reverse(left, right):
+            if left >= right:
+                return
+            
+            s[left], s[right]= s[right], s[left]
+            # s[right] = s[left]
 
-        while (i < j) :
-            temp = s[i]
-            s[i] = s[j]
-            s[j] = temp
+            reverse(left + 1, right - 1)
 
-            i += 1
-            j -= 1
+        reverse(0, len(s) - 1)
+        
