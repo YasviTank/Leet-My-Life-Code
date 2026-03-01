@@ -363,11 +363,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YasviTank/leet_my_life_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YasviTank/leet_my_life_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0700-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/YasviTank/leet_my_life_code/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/YasviTank/leet_my_life_code/tree/master/0841-keys-and-rooms) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
