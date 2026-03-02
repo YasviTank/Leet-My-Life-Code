@@ -1,5 +1,6 @@
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
+        
         result = [[1]]
         n = rowIndex + 1
 
@@ -14,3 +15,5 @@ class Solution:
             
 
         return result[-1]
+
+        
