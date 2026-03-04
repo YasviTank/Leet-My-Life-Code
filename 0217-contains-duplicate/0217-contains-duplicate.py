@@ -1,8 +1,28 @@
-class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
-        hashset = set()
-        for num in nums:
-            if num in hashset:
+class Solution(object):
+    def containsDuplicate(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        ## Sorting
+        nums.sort()
+
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i - 1]:
                 return True
-            hashset.add(num)
+        
         return False
+
+
+        ## Using Set
+        num_set = set()
+
+        for n in nums:
+            if n in num_set:
+                return True
+            num_set.add(n)
+        
+        return False
+
+        ## Using Length
+        return True if len(set(nums)) < len(nums) else False
