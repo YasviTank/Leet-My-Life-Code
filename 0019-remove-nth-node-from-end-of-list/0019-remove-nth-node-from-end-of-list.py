@@ -10,6 +10,7 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
+        
         res = ListNode(0, head)
         dummy = res
 
