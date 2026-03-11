@@ -9,14 +9,30 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: bool
         """
-        rev = None
+        if not head or not head.next:
+            return True
+
+        # Step 1: Find middle
         slow = fast = head
         while fast and fast.next:
+            slow = slow.next
             fast = fast.next.next
-            rev, rev.next, slow = slow, rev, slow.next
-        if fast:
-            slow = slow.next
-        while rev and rev.val == slow.val:
-            slow = slow.next
-            rev = rev.next
-        return not rev
+
+        # Step 2: Reverse second half
+        prev = None
+        curr = slow
+        while curr:
+            nxt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nxt
+
+        # Step 3: Compare first and second halves
+        left, right = head, prev
+        while right:
+            if left.val != right.val:
+                return False
+            left = left.next
+            right = right.next
+
+        return True
