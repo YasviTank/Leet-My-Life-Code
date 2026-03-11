@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YasviTank/leet_my_life_code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YasviTank/leet_my_life_code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
@@ -390,11 +392,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YasviTank/leet_my_life_code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/YasviTank/leet_my_life_code/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0700-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0700-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
