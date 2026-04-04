@@ -4,25 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        ## Sorting
-        nums.sort()
+        seen = set()
 
-        for i in range(1, len(nums)):
-            if nums[i] == nums[i - 1]:
+        for num in nums:
+            if num not in seen:
+                seen.add(num)
+            else:
                 return True
-        
         return False
-
-
-        ## Using Set
-        num_set = set()
-
-        for n in nums:
-            if n in num_set:
-                return True
-            num_set.add(n)
-        
-        return False
-
-        ## Using Length
-        return True if len(set(nums)) < len(nums) else False
