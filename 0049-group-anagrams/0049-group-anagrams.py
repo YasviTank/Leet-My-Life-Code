@@ -1,14 +1,17 @@
-class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashmap = {}
+class Solution(object):
+    def groupAnagrams(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: List[List[str]]
+        """
+        result = defaultdict(list)
 
-        for word in strs:
-            # create sorted key
-            key = "".join(sorted(word))
+        for s in strs:
+            count = [0] * 26
 
-            if key not in hashmap:
-                hashmap[key] = [word]
-            else:
-                hashmap[key].append(word)
+            for c in s:
+                count[ord(c) - ord("a")] += 1
 
-        return list(hashmap.values())
+            result[tuple(count)].append(s)
+
+        return result.values()
