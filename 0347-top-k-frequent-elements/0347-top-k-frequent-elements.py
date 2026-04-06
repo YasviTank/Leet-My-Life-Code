@@ -1,5 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        # running time: O(n)
         count = {}
         freq = [[] for i in range(len(nums) + 1)]
 
