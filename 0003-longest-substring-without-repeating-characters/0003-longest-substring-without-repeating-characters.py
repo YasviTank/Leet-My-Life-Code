@@ -4,6 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        ## using two pointer
         UniqueSet = set()
         l = 0
         res = 0
