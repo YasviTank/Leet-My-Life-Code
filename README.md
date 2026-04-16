@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YasviTank/leet_my_life_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/YasviTank/leet_my_life_code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/YasviTank/leet_my_life_code/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/YasviTank/leet_my_life_code/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/YasviTank/leet_my_life_code/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/YasviTank/leet_my_life_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/YasviTank/leet_my_life_code/tree/master/0141-linked-list-cycle) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YasviTank/leet_my_life_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/YasviTank/leet_my_life_code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/YasviTank/leet_my_life_code/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/YasviTank/leet_my_life_code/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/YasviTank/leet_my_life_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/YasviTank/leet_my_life_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0344-reverse-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YasviTank/leet_my_life_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/YasviTank/leet_my_life_code/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/YasviTank/leet_my_life_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/YasviTank/leet_my_life_code/tree/master/0424-longest-repeating-character-replacement) |
