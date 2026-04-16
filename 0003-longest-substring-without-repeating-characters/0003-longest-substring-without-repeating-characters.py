@@ -1,17 +1,20 @@
-class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
-        seen = set()
-        left = 0
-        count = 0
+class Solution(object):
+    def lengthOfLongestSubstring(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        UniqueSet = set()
+        l = 0
+        res = 0
 
-        for right in range(len(s)):
-            while s[right] in seen:
-                seen.remove(s[left])
-                left += 1
+        for r in range(len(s)):
+            while s[r] in UniqueSet:
+                UniqueSet.remove(s[l])
+                l += 1
 
-            seen.add(s[right])
-            count = max(count, right - left + 1)
+            UniqueSet.add(s[r])
 
-        return count 
+            res = max(res, r - l + 1)
 
-
+        return res
