@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/YasviTank/leet_my_life_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/YasviTank/leet_my_life_code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/YasviTank/leet_my_life_code/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/YasviTank/leet_my_life_code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/YasviTank/leet_my_life_code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YasviTank/leet_my_life_code/tree/master/0066-plus-one) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YasviTank/leet_my_life_code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/YasviTank/leet_my_life_code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YasviTank/leet_my_life_code/tree/master/0125-valid-palindrome) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YasviTank/leet_my_life_code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/YasviTank/leet_my_life_code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YasviTank/leet_my_life_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YasviTank/leet_my_life_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YasviTank/leet_my_life_code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YasviTank/leet_my_life_code/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YasviTank/leet_my_life_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YasviTank/leet_my_life_code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YasviTank/leet_my_life_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/YasviTank/leet_my_life_code/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/YasviTank/leet_my_life_code/tree/master/0853-car-fleet) |
