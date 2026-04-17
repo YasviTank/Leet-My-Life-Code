@@ -1,34 +1,43 @@
-# Here the idea is to use dual data storage, where every element in the stack
-# will be an array of elements: the value of the element and the min element of the stack
-# Giving constant time for retrieveing the min element of the stack.
-class MinStack:
+class MinStack(object):
 
     def __init__(self):
         self.stack = []
+        self.minstack =[]
         
 
-    def push(self, val: int) -> None:
-        min_val = self.getMin()
-        if min_val == None or min_val > val:
-            min_val = val
+    def push(self, val):
+        """
+        :type val: int
+        :rtype: None
+        """
+        self.stack.append(val)
+        if not self.minstack:
+            self.minstack.append(val)
+        else:
+            self.minstack.append(min(self.minstack[-1], val))
 
-        self.stack.append([val, min_val])
         
 
-    def pop(self) -> None:
+    def pop(self):
+        """
+        :rtype: None
+        """
         self.stack.pop()
+        self.minstack.pop()
         
 
-    def top(self) -> int:
-        if self.stack:
-            return self.stack[-1][0] 
-        return None
+    def top(self):
+        """
+        :rtype: int
+        """
+        return self.stack[-1]
         
 
-    def getMin(self) -> int:
-        if self.stack:
-            return self.stack[-1][1] 
-        return None
+    def getMin(self):
+        """
+        :rtype: int
+        """
+        return self.minstack[-1]
 
 
 # Your MinStack object will be instantiated and called as such:
