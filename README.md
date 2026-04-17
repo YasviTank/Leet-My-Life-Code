@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YasviTank/leet_my_life_code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YasviTank/leet_my_life_code/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/YasviTank/leet_my_life_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YasviTank/leet_my_life_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/YasviTank/leet_my_life_code/tree/master/0118-pascals-triangle) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YasviTank/leet_my_life_code/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/YasviTank/leet_my_life_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YasviTank/leet_my_life_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YasviTank/leet_my_life_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/YasviTank/leet_my_life_code/tree/master/0155-min-stack) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/YasviTank/leet_my_life_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/YasviTank/leet_my_life_code/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/YasviTank/leet_my_life_code/tree/master/0853-car-fleet) |
 ## Graph Theory
