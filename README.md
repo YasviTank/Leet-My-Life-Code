@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/YasviTank/leet_my_life_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/YasviTank/leet_my_life_code/tree/master/0238-product-of-array-except-self) |
+| [0271-encode-and-decode-strings](https://github.com/YasviTank/leet_my_life_code/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/YasviTank/leet_my_life_code/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/YasviTank/leet_my_life_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YasviTank/leet_my_life_code/tree/master/0349-intersection-of-two-arrays) |
