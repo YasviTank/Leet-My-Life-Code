@@ -25,3 +25,12 @@ class Solution:
                         l += 1
 
         return res
+
+
+    # Time complexity: O(n^2)
+        # Sorting: O(n log n)
+        # Overall loop: O(n^2)
+            # For loop: O(n)
+            # Inner while loop: O(n)
+        
+        
