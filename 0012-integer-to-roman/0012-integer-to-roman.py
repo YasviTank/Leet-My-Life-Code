@@ -13,7 +13,6 @@ class Solution:
                     s1 += hashmap[5*unit]
                 else: 
                     s1 += hashmap[10*unit]
-                print(s1)
                 s1 += hashmap[1*unit]
                 s += s1
             else:
