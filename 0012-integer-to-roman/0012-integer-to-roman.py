@@ -1,61 +1,61 @@
 class Solution:
     def intToRoman(self, num: int) -> str:
-        values = [
-            (1000, "M"),
-            (900, "CM"),
-            (500, "D"),
-            (400, "CD"),
-            (100, "C"),
-            (90, "XC"),
-            (50, "L"),
-            (40, "XL"),
-            (10, "X"),
-            (9, "IX"),
-            (5, "V"),
-            (4, "IV"),
-            (1, "I")
-        ]
+        # values = [
+        #     (1000, "M"),
+        #     (900, "CM"),
+        #     (500, "D"),
+        #     (400, "CD"),
+        #     (100, "C"),
+        #     (90, "XC"),
+        #     (50, "L"),
+        #     (40, "XL"),
+        #     (10, "X"),
+        #     (9, "IX"),
+        #     (5, "V"),
+        #     (4, "IV"),
+        #     (1, "I")
+        # ]
 
-        res = []
+        # res = []
 
-        for val, symbol in values:
-            while num >= val:
-                res.append(symbol)
-                num -= val
+        # for val, symbol in values:
+        #     while num >= val:
+        #         res.append(symbol)
+        #         num -= val
 
-        return "".join(res) 
+        # return "".join(res) 
             
         
         
-        # hashmap = {1:"I", 5:"V", 10:"X", 50:"L", 100:"C", 500:"D", 1000:"M"}
-        # unit = 1
-        # s = ""
+        hashmap = {1:"I", 5:"V", 10:"X", 50:"L", 100:"C", 500:"D", 1000:"M"}
+        unit = 1
+        s = ""
 
-        # while num:
-        #     digit = (num % 10)
-        #     num = num // 10
-        #     if digit == 4 or digit == 9:
-        #         s1 = ""
-        #         if digit == 4:
-        #             s1 += hashmap[5*unit]
-        #         else: 
-        #             s1 += hashmap[10*unit]
-        #         s1 += hashmap[1*unit]
-        #         s += s1
-        #     else:
-        #         s1 = ""
-        #         if digit <= 3:
-        #             for i in range(digit):
-        #                 s1 += hashmap[1 * unit]
-        #         else:
-        #             digit = digit - 5
+        while num:
+            digit = (num % 10)
+            num = num // 10
+            if digit == 4 or digit == 9:
+                s1 = ""
+                if digit == 4:
+                    s1 += hashmap[5*unit]
+                else: 
+                    s1 += hashmap[10*unit]
+                s1 += hashmap[1*unit]
+                s += s1
+            else:
+                s1 = ""
+                if digit <= 3:
+                    for i in range(digit):
+                        s1 += hashmap[1 * unit]
+                else:
+                    digit = digit - 5
                     
-        #             for i in range(digit):
-        #                 s1 += hashmap[1 * unit]
-        #             s1 += hashmap[5*unit]
-        #         s += s1
-        #     unit *= 10
+                    for i in range(digit):
+                        s1 += hashmap[1 * unit]
+                    s1 += hashmap[5*unit]
+                s += s1
+            unit *= 10
 
 
-        # return s[::-1]
+        return s[::-1]
 
