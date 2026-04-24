@@ -7,7 +7,7 @@ class Solution:
 
         while l <= r:
             
-            if abs(nums[l]) > nums[r]:
+            if abs(nums[l]) > abs(nums[r]):
                 res[i] = nums[l] * nums[l]
                 l += 1
             else:
@@ -16,3 +16,7 @@ class Solution:
             i -= 1
 
         return res
+
+
+        # Time complexity: O(n)
+        # Space complexity: O(n)
