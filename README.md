@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/YasviTank/leet_my_life_code/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/YasviTank/leet_my_life_code/tree/master/0853-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/YasviTank/leet_my_life_code/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/YasviTank/leet_my_life_code/tree/master/1137-height-checker) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/YasviTank/leet_my_life_code/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/YasviTank/leet_my_life_code/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/YasviTank/leet_my_life_code/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YasviTank/leet_my_life_code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/YasviTank/leet_my_life_code/tree/master/0853-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/YasviTank/leet_my_life_code/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/YasviTank/leet_my_life_code/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
