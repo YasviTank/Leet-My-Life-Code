@@ -13,9 +13,11 @@ class Solution:
             # s[l], s[r] = s[r], s[l]
             l += 1
             r -= 1 
-        return s
         # Time complexity = O(n)
         # Space compexity = O(1)
+
+        ## using string methods:
+        # s[:] = s[::-1]
 
         # ## using recursion:
         # def reverse(left, right):
