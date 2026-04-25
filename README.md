@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/YasviTank/leet_my_life_code/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YasviTank/leet_my_life_code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/YasviTank/leet_my_life_code/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/YasviTank/leet_my_life_code/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/YasviTank/leet_my_life_code/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/YasviTank/leet_my_life_code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YasviTank/leet_my_life_code/tree/master/0706-design-hashmap) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/YasviTank/leet_my_life_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/YasviTank/leet_my_life_code/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Function
 |  |
 | ------- |
