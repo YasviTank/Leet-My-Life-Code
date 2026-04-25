@@ -3,9 +3,10 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
+        ## using two pointer:
         l = 0
         r = len(s) - 1
-        while l <= r:
+        while l < r:
             temp = s[r]
             s[r] = s[l]
             s[l] = temp
@@ -13,6 +14,8 @@ class Solution:
             l += 1
             r -= 1 
         return s
+        # Time complexity = O(n)
+        # Space compexity = O(1)
 
         # ## using recursion:
         # def reverse(left, right):
