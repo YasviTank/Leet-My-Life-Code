@@ -1,5 +1,6 @@
 class Solution:
     def longestOnes(self, nums: List[int], k: int) -> int:
+        ## Sliding window solution:
         l = 0
         r = 0
         count = 0
@@ -16,10 +17,12 @@ class Solution:
             max_count = max(max_count, r-l+1)
             r+=1
         return max_count
+
+        # Time complexity: O(n)
+        # Space complexity: O(1)
         
         
-        
-        
+               
         
         
         # l = 0
