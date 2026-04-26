@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/YasviTank/leet_my_life_code/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0978-valid-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/YasviTank/leet_my_life_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/YasviTank/leet_my_life_code/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/YasviTank/leet_my_life_code/tree/master/1168-duplicate-zeros) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/YasviTank/leet_my_life_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/YasviTank/leet_my_life_code/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/YasviTank/leet_my_life_code/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/YasviTank/leet_my_life_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/YasviTank/leet_my_life_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/YasviTank/leet_my_life_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/YasviTank/leet_my_life_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Counting Sort
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/YasviTank/leet_my_life_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/YasviTank/leet_my_life_code/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YasviTank/leet_my_life_code/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/YasviTank/leet_my_life_code/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Function
 |  |
 | ------- |
