@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/YasviTank/leet_my_life_code/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/YasviTank/leet_my_life_code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1480-running-sum-of-1d-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/YasviTank/leet_my_life_code/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YasviTank/leet_my_life_code/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/YasviTank/leet_my_life_code/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/YasviTank/leet_my_life_code/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/YasviTank/leet_my_life_code/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
