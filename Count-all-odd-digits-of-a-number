@@ -1,0 +1,8 @@
+class Solution:
+    def countOddDigit(self, n):
+        c = 0
+        while n:
+            if n%2 != 0:
+                c += 1
+            n = n//10
+        return c
