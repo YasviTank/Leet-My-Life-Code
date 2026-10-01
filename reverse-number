@@ -1,0 +1,13 @@
+class Solution:
+    def reverseNumber(self, n):
+        # using string method
+        # s = str(n)
+        # return int(s[::-1])
+
+        # using modulo
+        reverse = 0
+        while n:
+            a = n%10
+            reverse = (reverse*10) + a
+            n = n//10
+        return reverse
