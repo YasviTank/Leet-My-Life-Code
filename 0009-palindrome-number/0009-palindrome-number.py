@@ -14,7 +14,4 @@ class Solution(object):
             reverse = reverse*10 + a
             n = n//10
 
-        if reverse == x:
-            return True
-        else:
-            return False
+        return (reverse == x)
