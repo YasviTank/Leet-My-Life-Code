@@ -4,5 +4,17 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        s = str(x)
-        return s == s[::-1]
+        if x<0:
+            return False
+
+        n = x
+        reverse = 0
+        while n:
+            a = n%10
+            reverse = reverse*10 + a
+            n = n//10
+
+        if reverse == x:
+            return True
+        else:
+            return False
