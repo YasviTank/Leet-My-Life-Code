@@ -1,0 +1,16 @@
+class Solution:
+    def isArmstrong(self, n):
+        m = x = n
+        count = 0
+        summ = 0
+
+        while m:
+            m = m//10
+            count += 1
+
+        while x:
+            a = x%10
+            summ += (a**count)
+            x = x//10
+
+        return (summ == n)
