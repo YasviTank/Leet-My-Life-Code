@@ -1,0 +1,13 @@
+class Solution:
+    def arraySortedOrNot(self, arr, n):
+
+        a = arr[0]
+
+        for num in arr:
+            if num >= a:
+                a = num
+            else:
+                return False
+
+        return True
+        
