@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YasviTank/leet_my_life_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/YasviTank/leet_my_life_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/YasviTank/leet_my_life_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0219-contains-duplicate-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/YasviTank/leet_my_life_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/YasviTank/leet_my_life_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/YasviTank/leet_my_life_code/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YasviTank/leet_my_life_code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/YasviTank/leet_my_life_code/tree/master/0258-add-digits) |
 ## Queue
 |  |
@@ -502,4 +505,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/YasviTank/leet_my_life_code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
