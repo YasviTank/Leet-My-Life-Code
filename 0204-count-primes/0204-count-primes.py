@@ -1,5 +1,6 @@
 class Solution(object):
     def countPrimes(self, n):
+        #Sieve of Eratosthenes
         if n < 2:
             return 0
 
