@@ -1,0 +1,6 @@
+class Solution:
+    def reverse(self, arr: list, n: int) -> None:
+        for i in range(int(n/2)):
+            arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+
+        return arr
