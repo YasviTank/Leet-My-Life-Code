@@ -17,3 +17,4 @@ class Solution:
                 return k
 
         return -1
+#sorting (k) distinct elements takes (O(klog k)) time
