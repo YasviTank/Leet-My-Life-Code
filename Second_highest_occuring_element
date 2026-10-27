@@ -1,0 +1,19 @@
+class Solution:
+    def secondMostFrequentElement(self, nums):
+        counter = {}
+        
+        nums = sorted(nums)
+        for num in nums:
+            if num in counter:
+                counter[num] += 1
+            else:
+                counter[num] = 1
+        if len(counter) <= 1:
+            return -1
+      
+        h = max(counter.values())
+        for k,v in sorted(counter.items(), key=lambda item: (-item[1], item[0]),):
+            if v < h:
+                return k
+
+        return -1
