@@ -1,24 +1,27 @@
-class Solution:
-    def isIsomorphic(self, s: str, t: str) -> bool:
+class Solution(object):
+    def isIsomorphic(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
         n = len(s)
         m = len(t)
         if n != m:
-            return False
-        hashmap = {}
-        hashset = set()
+            return False 
 
-        for i in range(n):
-            if s[i] not in hashmap:
-                if t[i] not in hashset:
-                    hashset.add(t[i])
-                    hashmap[s[i]] = t[i]
+        mapper = {}
+
+        for i in range(len(s)):
+            if s[i] not in mapper:
+                if t[i] not in mapper.values():
+                    mapper[s[i]] = t[i]
                 else:
                     return False
             else:
-                
-                if hashmap[s[i]] != t[i]:
+                if mapper[s[i]] != t[i]:
                     return False
+
         return True
 
-
-        
+    
