@@ -5,29 +5,21 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        
-        hashcount = {}
-        
         if len(s) != len(t):
             return False
 
+        count = {}
+
         for letter in s:
-            if letter not in hashcount:
-                hashcount[letter] = 1
+            if letter in count:
+                count[letter] += 1
             else:
-                hashcount[letter] += 1
+                count[letter] = 1
 
         for letter in t:
-            if letter in hashcount:
-                if hashcount[letter] > 0:
-                    hashcount[letter] -= 1
-                else:
-                    return False
+            if letter in count and count[letter] > 0:
+                count[letter] -= 1
             else:
                 return False
-                
 
         return True
-
-
-            
