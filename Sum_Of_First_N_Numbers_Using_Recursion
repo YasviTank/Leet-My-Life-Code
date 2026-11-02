@@ -1,0 +1,7 @@
+class Solution:
+    def NnumbersSum(self, N):
+        #your code goes here
+        if N == 1:
+            return 1
+        else:
+            return  N +  self.NnumbersSum(N-1)
