@@ -12,4 +12,12 @@ class Solution:
 
         helper(0, len(s)-1)
         return s
+
+        ## Another way (using recursion):
+        # Base case
+        if len(s) <= 1:
+            return s
+
+        # Last element + reversed middle + first element
+        return [s[-1]] + self.reverseString(s[1:-1]) + [s[0]]
             
