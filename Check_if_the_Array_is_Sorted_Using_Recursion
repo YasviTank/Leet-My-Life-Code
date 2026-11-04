@@ -1,0 +1,14 @@
+class Solution:
+    def isSorted(self, nums):
+        #your code goes here
+
+        def checker(num1, num2):
+            if num2 == len(nums):
+                return True
+
+            if num2[num1] > nums[num2]:
+                return False
+
+            return checker(num1+1, num2+1)
+
+        return checker(0,1)
