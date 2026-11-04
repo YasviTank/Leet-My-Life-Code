@@ -1,0 +1,17 @@
+class Solution:
+    def checkPrime(self, num):
+
+        if num <= 1:
+            return False
+
+        def helper(divisor):
+
+            if divisor * divisor > num:
+                return True
+
+            if num % divisor == 0:
+                return False
+
+            return helper(divisor + 1)
+
+        return helper(2)
