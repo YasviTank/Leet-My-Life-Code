@@ -1,0 +1,15 @@
+class Solution:
+    def reverseArray(self, nums):
+        #your code goes here
+
+        def helper(left, right):
+            if left >= right:
+                return
+
+            nums[left], nums[right] = nums[right], nums[left]
+            left += 1
+            right -= 1
+
+            helper(left, right)
+        helper(0, len(nums)-1)
+        return nums
