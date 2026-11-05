@@ -12,4 +12,6 @@ class Solution:
 
         return nums
 
-            
+            0*O(n)
+# Time complexity: O(n^2), two nested loops, outer loop:O(n), inner loop:O(n), therefore O(n)*o(n) = O(n^2)
+# Space complexity: O(1), only extra variales used
