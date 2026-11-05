@@ -1,0 +1,15 @@
+class Solution:
+    def selectionSort(self, nums):
+        i = 0
+        while i<len(nums):
+            smallest = i
+            for j in range(i,len(nums)):
+                if nums[j] < nums[smallest]:
+                    smallest = j
+
+            nums[i], nums[smallest] = nums[smallest], nums[i]
+            i += 1
+
+        return nums
+
+            
