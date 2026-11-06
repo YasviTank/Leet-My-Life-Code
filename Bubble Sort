@@ -1,0 +1,14 @@
+class Solution:
+    def bubbleSort(self, nums):
+        n = len(nums) - 1
+        swapped = False
+        while n:
+            for i in range(n):
+                if nums[i] > nums[i+1]:
+                    nums[i], nums[i+1] = nums[i+1], nums[i]
+                    swapped = True
+            n -= 1
+            if swapped == False:
+                break
+
+        return nums
