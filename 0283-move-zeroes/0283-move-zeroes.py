@@ -15,5 +15,5 @@ class Solution(object):
             else:
                 count += 1
         
-        for i in range(count):
+        for i in range(n-j):
             nums[-i-1] = 0
