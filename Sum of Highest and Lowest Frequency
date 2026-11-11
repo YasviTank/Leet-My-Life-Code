@@ -1,0 +1,13 @@
+class Solution:
+    def sumHighestAndLowestFrequency(self, nums):
+        freq = {}
+
+        # Count frequencies
+        for num in nums:
+            freq[num] = freq.get(num, 0) + 1
+
+        # Find highest and lowest frequency
+        highest = max(freq.values())
+        lowest = min(freq.values())
+
+        return highest + lowest
