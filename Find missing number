@@ -1,0 +1,15 @@
+class Solution:
+    def missingNumber(self, nums):
+        total = 0
+        n = len(nums)
+
+        for i in range(n+1):
+            total += i
+# or using the sum formula: total = n * (n + 1) // 2
+
+        for i in range(n):
+            total -= nums[i]
+
+        return total
+
+        
