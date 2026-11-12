@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/YasviTank/leet_my_life_code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/YasviTank/leet_my_life_code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YasviTank/leet_my_life_code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/YasviTank/leet_my_life_code/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/YasviTank/leet_my_life_code/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/YasviTank/leet_my_life_code/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -535,4 +537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
