@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YasviTank/leet_my_life_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YasviTank/leet_my_life_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/YasviTank/leet_my_life_code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YasviTank/leet_my_life_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YasviTank/leet_my_life_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/YasviTank/leet_my_life_code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/YasviTank/leet_my_life_code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/YasviTank/leet_my_life_code/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/YasviTank/leet_my_life_code/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/YasviTank/leet_my_life_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/YasviTank/leet_my_life_code/tree/master/0141-linked-list-cycle) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/YasviTank/Leet-My-Life-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/YasviTank/leet_my_life_code/tree/master/0200-number-of-islands) |
 ## Monotonic Stack
 |  |
