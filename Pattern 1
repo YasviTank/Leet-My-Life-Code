@@ -4,3 +4,9 @@ class Solution:
             print('*'*n)
         # Outer loop → Rows (how many lines?)
         # Inner loop → Columns (how many characters per line?)
+
+# if n =. 4
+# ****
+# ****
+# ****
+# ****
