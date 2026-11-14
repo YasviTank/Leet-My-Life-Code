@@ -1,0 +1,10 @@
+class Solution:
+    def pattern2(self, n):
+        for i in range(n):
+            print('*'*(i+1))
+
+# if n =. 4
+# *
+# **
+# ***
+# ****
