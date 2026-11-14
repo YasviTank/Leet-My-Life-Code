@@ -1,0 +1,6 @@
+class Solution:
+    def pattern1(self, n):
+        for i in range(n):
+            print('*'*n)
+        # Outer loop → Rows (how many lines?)
+        # Inner loop → Columns (how many characters per line?)
