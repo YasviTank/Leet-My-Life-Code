@@ -1,0 +1,16 @@
+class Solution:
+    def pattern14(self, n):
+        start = ord("A")
+
+        for i in range(1, n + 1):
+            for j in range(i):
+                print(chr(start + j), end="")
+            print()
+
+
+# if n = 5:
+# A
+# AB
+# ABC
+# ABCD
+# ABCDE
