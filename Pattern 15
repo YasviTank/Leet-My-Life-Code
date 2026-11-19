@@ -1,0 +1,15 @@
+class Solution:
+    def pattern15(self, n):
+        start = ord("A")
+
+        for i in range(n, 0, -1):
+            for j in range(i):
+                print(chr(start + j), end="")
+            print()
+
+# if n = 5:
+# ABCDE
+# ABCD
+# ABC
+# AB
+# A
