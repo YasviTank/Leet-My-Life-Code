@@ -1,0 +1,14 @@
+class Solution:
+    def pattern21(self, n):
+        if n <= 0:
+            return
+
+        print("*" * n)
+
+        if n == 1:
+            return
+
+        for i in range(n - 2):
+            print("*" + " " * (n - 2) + "*")
+
+        print("*" * n)
