@@ -1,0 +1,21 @@
+class Solution:
+    def pattern22(self, n):
+        size = 2 * n - 1
+        last = size - 1
+
+        for row in range(size):
+            for col in range(size):
+                distance = min(row, col, last - row, last - col)
+                number = n - distance
+                print(number, end="\n" if col == last else " ")
+                
+# if n = 5:
+# 5 5 5 5 5 5 5 5 5 
+# 5 4 4 4 4 4 4 4 5 
+# 5 4 3 3 3 3 3 4 5 
+# 5 4 3 2 2 2 3 4 5 
+# 5 4 3 2 1 2 3 4 5 
+# 5 4 3 2 2 2 3 4 5 
+# 5 4 3 3 3 3 3 4 5 
+# 5 4 4 4 4 4 4 4 5 
+# 5 5 5 5 5 5 5 5 5
