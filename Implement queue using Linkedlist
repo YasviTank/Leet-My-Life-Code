@@ -1,0 +1,41 @@
+class Node:
+    def __init__(self, value):
+        self.value = value
+        self.next = None
+
+
+class LinkedListQueue:
+    def __init__(self):
+        self.head = None  # Front of the queue
+        self.tail = None  # Back of the queue
+
+    def push(self, x):
+        new_node = Node(x)
+
+        if self.isEmpty():
+            self.head = new_node
+        else:
+            self.tail.next = new_node
+
+        self.tail = new_node
+
+    def pop(self):
+        if self.isEmpty():
+            raise IndexError("pop from empty queue")
+
+        value = self.head.value
+        self.head = self.head.next
+
+        if self.head is None:
+            self.tail = None
+
+        return value
+
+    def peek(self):
+        if self.isEmpty():
+            raise IndexError("peek from empty queue")
+
+        return self.head.value
+
+    def isEmpty(self):
+        return self.head is None
