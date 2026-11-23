@@ -1,0 +1,17 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = []
+        matching = {")": "(", "]": "[", "}": "{"}
+
+        for brac in s:
+            if brac in "([{":
+                stack.append(brac)
+            else:
+                if len(stack) == 0:
+                    return False
+
+                opener = stack.pop()
+                if opener != matching[brac]:
+                    return False
+
+        return len(stack) == 0
