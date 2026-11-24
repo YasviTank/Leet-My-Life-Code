@@ -1,0 +1,41 @@
+class Solution:
+    def infixToPostfix(self, expression: str) -> str:
+        precedence = {"+": 1, "-": 1, "*": 2, "/": 2, "^": 3}
+        stack = []
+        output = []
+
+        for char in expression:
+            if char.isspace():
+                continue
+
+            if char.isalnum():
+                output.append(char)
+
+            elif char == "(":
+                stack.append(char)
+
+            elif char == ")":
+                while stack[-1] != "(":
+                    output.append(stack.pop())
+                stack.pop()  # Discard "("
+
+            else:
+                while (
+                    stack
+                    and stack[-1] != "("
+                    and (
+                        precedence[stack[-1]] > precedence[char]
+                        or (
+                            precedence[stack[-1]] == precedence[char]
+                            and char != "^"
+                        )
+                    )
+                ):
+                    output.append(stack.pop())
+
+                stack.append(char)
+
+        while stack:
+            output.append(stack.pop())
+
+        return "".join(output)
