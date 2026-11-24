@@ -1,0 +1,16 @@
+class Solution:
+    def prefixToInfix(self, expression: str) -> str:
+        stack = []
+
+        for char in reversed(expression):
+            if char.isspace():
+                continue
+
+            if char.isalnum():
+                stack.append(char)
+            else:
+                left = stack.pop()
+                right = stack.pop()
+                stack.append(f"({left}{char}{right})")
+
+        return stack.pop()
