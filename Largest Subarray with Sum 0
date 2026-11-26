@@ -1,0 +1,16 @@
+class Solution:
+    def maxLen(self, nums):
+        first_seen = {0: -1}
+        total = 0
+        longest = 0
+
+        for i, num in enumerate(nums):
+            total += num
+
+            if total in first_seen:
+                length = i - first_seen[total]
+                longest = max(longest, length)
+            else:
+                first_seen[total] = i
+
+        return longest
