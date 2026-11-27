@@ -1,0 +1,21 @@
+class Solution:
+    def getFloorAndCeil(self, nums, x):
+        floor = None
+        ceil = None
+
+        for num in nums:
+            if num <= x:
+                if floor is None or num > floor:
+                    floor = num
+
+            if num >= x:
+                if ceil is None or num < ceil:
+                    ceil = num
+
+        if floor is None:
+            floor = -1
+
+        if ceil is None:
+            ceil = -1
+
+        return [floor, ceil]
